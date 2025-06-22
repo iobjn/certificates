@@ -15,41 +15,44 @@ La base de cualquier análisis robusto. Aquí he construido mi entendimiento de 
 
 - **Google Data Analytics Professional Certificate** - *Google*
   - **Cursos clave:** "Aspectos básicos: Datos, datos, en todas partes", "Formula preguntas para tomar decisiones basadas en datos", "Preparar datos para la exploración".
-  - _[Enlace a tu Certificado General de Google]_
+  - https://coursera.org/share/5722925d7aed8daf966dca7a359ccec3
+  - https://coursera.org/share/d83255ed4dcd4d18a1eb19e750552cbe
+  - https://coursera.org/share/66aab05f68366f501b6b6bac39966682
+    
 - **Statistics Foundations** - *Meta*
   - **Habilidades:** Regresión, Análisis de Mercado, Inferencia Estadística.
-  - _[Enlace a tu Certificado de Meta]_
+  - https://coursera.org/share/12f6f40047ca03da7dae518fd6630a51
 - **Fundamentos de estadística aplicada** - *Universidad de los Andes*
   - **Habilidades:** Probabilidad, Pruebas de Hipótesis, Distribuciones.
-  - _[Enlace a tu Certificado de la U. de los Andes]_
+  - https://coursera.org/share/735855925705e3beada3ddef05667dc9
 
 ### 🐍 Análisis y Programación con Python
 La herramienta principal para la manipulación y análisis de datos a gran escala.
 
 - **Python and Statistics for Financial Analysis** - *The Hong Kong University of Science and Technology*
   - **Habilidades:** Uso de librerías como Pandas, NumPy y Matplotlib para análisis estadístico.
-  - _[Enlace a tu Certificado de HKUST]_
+  - https://coursera.org/share/f63b855a951ca3f3aaf27113c942237d
 
 ### 📈 Visualización de Datos y Business Intelligence (BI)
 Transformar datos crudos en historias visuales claras y accionables para la toma de decisiones.
 
 - **Big Data: visualización de datos** - *Universitat Autònoma de Barcelona*
   - **Habilidades:** Creación de dashboards e informes interactivos con Tableau.
-  - _[Enlace a tu Certificado de la UAB]_
+  - https://coursera.org/share/88712e19b30a6a64cabe06ce52eb65d3
 
 ### 🤖 Machine Learning y Estrategia
 Comprender y aplicar modelos predictivos y el ciclo de vida completo de un proyecto de Ciencia de Datos.
 
 - **Ciclo completo del desarrollo de un proyecto de Data Science** - *Coursera Project Network*
   - **Habilidades:** Liderazgo, Estrategia, Comunicación y aplicación de modelos de Machine Learning.
-  - _[Enlace a tu Certificado]_
+  - https://www.coursera.org/account/accomplishments/verify/L4YPWWV82MY8
 
 ### 💬 Comunicación e Influencia
 La habilidad más importante: traducir los hallazgos técnicos en un lenguaje que inspire acción y genere impacto en el negocio.
 
 - **Storytelling and Influencing: Communicate with impact** - *Macquarie University*
   - **Habilidades:** Storytelling de datos, Comunicación de impacto, Inteligencia Emocional, Liderazgo.
-  - _[Enlace a tu Certificado de Macquarie]_
+  - https://coursera.org/share/d7b00f0fee68d0e754959bed20fafb4a
 
 ---
 
